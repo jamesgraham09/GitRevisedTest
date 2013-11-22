@@ -1,1 +1,1 @@
-Explain what git clone does?
+Git Clone copies a repo from GitHub to the local directory for a user to work on
